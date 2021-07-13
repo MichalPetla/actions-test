@@ -9,7 +9,7 @@ class ActionsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		String abc = "abcd";
+		String abc = "abc";
 
 		Assertions.assertEquals("abc", abc);
 	}
